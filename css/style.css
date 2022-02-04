@@ -1,0 +1,121 @@
+/* &display=swap */
+
+@import "null.css";
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+
+
+body {
+	color: #424551;
+	font-size: 16px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 25.6px;
+	text-align: justify;
+	
+}
+
+h1 {
+	font-size: 46px;
+	font-family: "Lato";
+	font-style: normal;
+	font-weight: 900;
+	line-height: 60px;
+	text-align: left;
+	width: 810px;
+	height: 120px;
+	margin: 190px 0 92.84px 345px;
+}
+
+
+.image {
+	width: 810px;
+	height: 360.76px;
+	margin: 0 0 58.4px 345px;
+}
+
+.text {
+	margin: 0 0 24px 345px;
+	width: 810px;
+	height: 90px;
+}
+
+
+.abz {
+	margin: 0 0 48px 345px;
+	width: 810px;
+	height: 182px;
+}
+
+
+p.loremi{
+	width: 752px;
+	height: 120px;
+	padding-left: 58px;
+	margin: 0 0 48px 345px;
+}
+
+.color-shr,
+.text,
+.loremi{
+	color: #1E212C;
+}
+
+.text,
+.loremi{
+	font-size: 20px;
+	font-family: "Lato";
+	font-style: normal;
+	font-weight: 700;	
+	line-height: 30px;
+}
+
+
+.spisok {
+	width: 810px;
+	height: 52px;
+	margin: 0 0 24px 345px;
+}
+
+.spisok-nomer {
+	width: 568px;
+	height: 26px;
+	padding: 0 0 0 32px;
+	margin: 0 0 4px 345px;
+	
+}
+
+
+p.text2 {
+	width: 810px;
+	height: 154px;
+	margin: 24px 0 60px 345px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
